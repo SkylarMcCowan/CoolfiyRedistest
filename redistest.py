@@ -3,7 +3,7 @@ import random
 import string
 
 # Redis connection URL
-redis_url = "redis://default:z3KzwXWhAsKqQWwiK6BZTBRPAxCMKRz61brbrEwsFmjmqZDO1XoMAUNB9BcJaTUm@15.204.46.122:6969/0"
+redis_url = "your_connection_url"
 
 def random_string(length=10):
     letters = string.ascii_letters
